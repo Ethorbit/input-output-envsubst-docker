@@ -36,5 +36,5 @@ services:
 
 In this example we expand all environment variables contained in .cfg files in the relative `./data/raw_files` directory and output the expanded files to `./data/formatted_files`. The files in `raw_files` remain untouched.
 
-# What is this used for
+# What this is used for
 This is used when you need to put environment variables into service config files. In my time of using Docker, this is something I've needed to do many times and having an image built for that purpose makes things a lot less repetitive.
