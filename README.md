@@ -1,4 +1,4 @@
-# input-output-envsubst
+# ![DockerHub](https://archive.org/download/docker-icon/docker-icon.png) [input-output-envsubst](https://hub.docker.com/r/ethorbit/input-output-envsubst)
 Set input, output directory and file extension to expand environment variables in all files.
 
 # Example
